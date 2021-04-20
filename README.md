@@ -12,7 +12,7 @@ This is the group project for ECE 230 for Group 7
 | Kartikeye (KK) | <table>Project 3:  Circuit Transformation Techniques<br><ul><li>Source Transformations (4.24, 4.30)</li><li>Thevenin Equivalent Circuits (4.38, 4.42)</li><li>Norton Equivalent Circuits (4.48, 4.63)</li><li>Maximum Power Transfer (4.71)</li></ul></table> | working on problems |
 | Nicolas Draves | <table>Project 7: Transformers and Filters<br><ul><li>Linear Transformers (13.11, 13.26)</li><li>Ideal Transformers (13.43, 13.70)</li><li>First-Order Filters (14.48, 14.103)</li><li>Transfer Functions (14.06)</li></ul></table> | |
 | Aidan McEllistrem | | |
-| Connor Torpy | | |
+| Connor Torpy |<table>Project 5:  Differential Equation Circuit Techniques and Singularity Functions <br><ul><li>First-Order Circuits (7.44, 7.55, 7.70, 7.85)</li><li>Second-Order Circuits (8.34, 8.42, 8.48)</li><li>Singularity Functions (7.26)</li>/ul></table> | working on problems |
 | Shivam Nanda | | |
 | Surya | | |
 | Christopher Hall | | |
